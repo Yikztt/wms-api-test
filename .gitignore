@@ -22,3 +22,6 @@ file/
 venv/
 .venv/
 env/
+
+# ===== Excel 临时锁文件（打开 xlsx 时生成）=====
+~$*.xlsx
