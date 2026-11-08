@@ -1,0 +1,24 @@
+# ===== Python 缓存 =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# ===== 运行时生成物（报告 / 日志）=====
+report/
+log/
+
+# ===== 本地 IDE / 项目数据 =====
+.idea/
+.vscode/
+.codebuddy/
+
+# ===== 与框架无关的样例 / 临时文件 =====
+main.py
+file/
+
+# ===== 虚拟环境（如有）=====
+venv/
+.venv/
+env/
